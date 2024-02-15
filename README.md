@@ -1,8 +1,8 @@
 ### Hi, Aidan here! 👋 
 
 - 😄 Pronouns: he/him  
-- ⚡️ Electrician turned Software Developer  
-- 🔭 I’m working primarliy in Ruby/Sinatra and Javascript/Node  
+- ⚡️ Electrician turned Software Engineer  
+- 🔭 I’m working primarliy in Typescript/Node  
 - 📫 How to reach me: AidanMcGuire211@gmail.com  
 - 💬 Ask me about books, building things, 3d-printing, motorcycles
 
